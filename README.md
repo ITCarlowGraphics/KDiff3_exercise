@@ -2,7 +2,7 @@
 
 Clone this repo and try the merge exercises below.
 
-*For this exercise, use only the KDiff3 tools. DO NOT manually edit the output window
+*For this exercise, use only the KDiff3 tools. DO NOT manually edit the output window*
 
 ## Merge1
 1. merge branch x into branch y so that the merged code looks like below
