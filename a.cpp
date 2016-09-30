@@ -8,6 +8,13 @@ int main ()
    {
        cout << "value of a: " << a << endl;
    }
- 
+  
+   for( int i=0;i<10;i++ )
+   {
+       cout << "have a nice day" << endl;
+   }
+   
+   cout << "C++ is the best"
+   
    return 0;
 }
