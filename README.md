@@ -6,8 +6,7 @@ Clone this repo and try the merge exercises below.
 
 ## Merge1
 1. merge branch x into branch y
-2. use KDiff3 to merge the files
-3. the merged code should look like this 
+2. use KDiff3 to merge the files so that the merged code should look like below: 
 ```
 #include <iostream>
 using namespace std;
@@ -31,8 +30,7 @@ int main ()
 
 ## Merge2
 1. undo the previous merge
-2. merge branch x into branch y
-3. the merged code should look like this (hint: Join selected Diffs)
+2. use KDiff3 to merge the files so that the merged code should look like below: (hint: Join selected Diffs)
 ```
 #include <iostream>
 using namespace std;
@@ -63,8 +61,7 @@ int main ()
 
 ## Merge2
 1. undo the previous merge
-2.merge branch z into branch y
-3. the merged code should look like this (hint: Split Diff At Selection)
+2. use KDiff3 to merge the files so that the merged code should look like below:  (hint: Split Diff At Selection)
 ```
 #include <iostream>
 using namespace std;
